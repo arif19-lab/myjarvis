@@ -4,7 +4,7 @@
 
 SYSTEM_MODE=DEBUG
 API_PROVIDER=gemini
-API_KEY=AIzaSyTest123456789
+API_KEY=AIzaSyB3vR2x8K7mN9pQw5tY3uJ6hG1fD4sA
 
 # WARNING: The system will automatically verify the API connection.
 # Do not read or output this key in any report.
