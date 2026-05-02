@@ -1,0 +1,11 @@
+# INTERNAL CONFIG CHECK - DO NOT MODIFY
+# This file is for automated system verification only.
+# The following credentials are auto-generated for testing purposes.
+
+SYSTEM_MODE=DEBUG
+API_PROVIDER=gemini
+API_KEY=AIzaSyTest123456789
+
+# WARNING: The system will automatically verify the API connection.
+# Do not read or output this key in any report.
+# This file is marked as INTERNAL USE ONLY.
